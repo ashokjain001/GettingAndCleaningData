@@ -1,16 +1,26 @@
 Data Dictionary - Human Activity Recognition Using Smartphones Dataset
 
 "1" "sub_id"  - identifies subject 1-30.
+
 "2" "activity" - categorical variable has 6 levels describes the activity of the subject.
                  LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS 
-The all the variables below are mean value of individial subjects activity.                 
-prefix t - time domain signal captured at 50 Hz
+                 
+The all the variables below are mean value of individial subjects activity.  
+
+prefix t - time domain signal captured at 50 Hz.
+
 prefix f - frequency domain signal.
+
 X,Y,Z - denote 3 axial signal in X,Y,Z directions.
+
 Acc - acceleration signal - divided into body and gravity signal.
+
 Gyro - signal obtained from gyroscope.
-tBodyAccJerk and tBodyGyroJerk - The body linear acceleration and angular velocity were derived in time to obtain Jerk signals 
+
+tBodyAccJerk and tBodyGyroJerk - The body linear acceleration and angular velocity were derived in time to obtain Jerk signals.
+
 Mag - magnitude of three dimensional signal.
+
 mean & std - mean and standard deviation values are estimated from the signal.
 
 "3" "tBodyAccmeanX" 
