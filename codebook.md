@@ -7,7 +7,7 @@ The tidy data set has 68 columns and 180 rows.
 "2" "activity" - categorical variable has 6 levels describes the activity of the subject.
                  LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS 
                  
-The all the variables below are mean value of individial subjects activity.  
+All the variables below are mean value of individial subjects activity.  
 
 prefix t - time domain signal captured at 50 Hz.
 
