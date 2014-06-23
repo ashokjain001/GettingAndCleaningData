@@ -2,6 +2,11 @@ The main aim of this file is to illustrate the steps performed for
 getting and Cleaning Data class project.
 https://class.coursera.org/getdata-004
 
+This repo contains 
+1)README.md 
+2)run_analysis.R
+3)codebook.md
+
 The data is obtained from this link
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR
 %20Dataset.zip
