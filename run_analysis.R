@@ -1,7 +1,7 @@
 #Downloading the file
 run_analysis <- function(){
 fileurl<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip",destfile<-"./project.zip",method="curl")
+download.file(fileurl,destfile<-"./project.zip",method="curl")
 
 #loading test data sets
 X_test<-read.table("./UCI HAR Dataset/test/X_test.txt")
