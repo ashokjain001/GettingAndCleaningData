@@ -1,4 +1,5 @@
 #Downloading the file
+run_analysis <- function(){
 fileurl<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip",destfile<-"./project.zip",method="curl")
 
@@ -50,4 +51,5 @@ aggdata <- aggregate(rearranged[,4:69], list(activity=rearranged$activity,sub_id
 
 finaldata<-aggdata[,c(2,1,3:68)]
 
-
+write.table(finaldata,"./project.txt")  
+}
