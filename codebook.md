@@ -83,5 +83,5 @@ All the variables below are mean value derived from each subjects activity.
 
 
 References 
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](Data)
-[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](Research Info)
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]( Data)
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]( Research Info)
