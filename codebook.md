@@ -12,7 +12,7 @@ Tidy data set has 68 columns and 180 rows.
     * WALKING_DOWNSTAIRS
     * WALKING_UPSTAIRS 
                  
-All the variables below are mean value of each subjects activity.  
+All the variables below are mean value derived from each subjects activity.  
 
 3. "tBodyAccmeanX" 
 4. "tBodyAccmeanY" 
@@ -82,5 +82,6 @@ All the variables below are mean value of each subjects activity.
 68. "fBodyBodyGyroJerkMagstd"
 
 
-References :-  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+References 
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](Data)
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](Research Info)
