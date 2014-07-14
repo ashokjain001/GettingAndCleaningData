@@ -18,4 +18,5 @@ This repo contains the following files
 <li>run_analysis.R</li>
 <li>codebook.md</li>
 <li>tidydata.txt</li>
+<li>ProjectDescription.md</li>
 <ol>
