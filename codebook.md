@@ -1,11 +1,16 @@
 ##Data Dictionary - Human Activity Recognition Using Smartphones Dataset
 
-1. The tidy data set has 68 columns and 180 rows.
+Tidy data set has 68 columns and 180 rows.
 
-"1" "sub_id"  - identifies subject 1-30.
+1. sub_id  - identifies subject 1-30.
 
-"2" "activity" - categorical variable has 6 levels describes the activity of the subject.
-                 LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS 
+2. activity - categorical variable has 6 levels describes the activity of the subject.
+    * LAYING 
+    * SITTING 
+    * STANDING
+    * WALKING
+    * WALKING_DOWNSTAIRS
+    * WALKING_UPSTAIRS 
                  
 All the variables below are mean value of individial subjects activity.  
 
