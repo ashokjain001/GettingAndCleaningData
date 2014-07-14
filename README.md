@@ -1,10 +1,10 @@
 Getting and Cleaning Data Project
 =================================
 
-This Project is part of a Getting and Cleaning Data class from coursera.
+This Project is part of Getting and Cleaning Data class from coursera.
 https://class.coursera.org/getdata-004
 
-The main aim of this project is to convert a raw data file into tidy data and in the process apply various R programming skills learned in the class. 
+The main aim of this project is to convert a raw data file into tidy data and in the process apply various R programming techniques/skills learned in the class. 
 
 This repo contains the following files
 1)README.md 
