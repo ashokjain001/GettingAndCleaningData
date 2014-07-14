@@ -82,6 +82,6 @@ All the variables below are mean value derived from each subjects activity.
 68. "fBodyBodyGyroJerkMagstd"
 
 
-References 
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]( Data)
-[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]( Research Info)
+References:-
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](Data)
+for more info on variables and research please  [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](visit)
