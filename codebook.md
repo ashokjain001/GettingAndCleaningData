@@ -1,6 +1,6 @@
-Data Dictionary - Human Activity Recognition Using Smartphones Dataset
+##Data Dictionary - Human Activity Recognition Using Smartphones Dataset
 
-The tidy data set has 68 columns and 180 rows.
+1. The tidy data set has 68 columns and 180 rows.
 
 "1" "sub_id"  - identifies subject 1-30.
 
