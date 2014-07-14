@@ -3,7 +3,6 @@
 Tidy data set has 68 columns and 180 rows.
 
 1. sub_id  - identifies subject from 1-30.
-
 2. activity - categorical variable has 6 levels describes the activity of each subject.
     * LAYING 
     * SITTING 
@@ -11,9 +10,6 @@ Tidy data set has 68 columns and 180 rows.
     * WALKING
     * WALKING_DOWNSTAIRS
     * WALKING_UPSTAIRS 
-                 
-All the variables below are mean value derived from each subjects activity.  
-
 3. "tBodyAccmeanX" 
 4. "tBodyAccmeanY" 
 5. "tBodyAccmeanZ" 
@@ -80,6 +76,8 @@ All the variables below are mean value derived from each subjects activity.
 66. "fBodyBodyAccJerkMagstd"
 67. "fBodyBodyGyroMagstd"
 68. "fBodyBodyGyroJerkMagstd"
+
+All the variables from 3 to 68 are mean value derived from each subjects activity.  
 
 References:-
 For more info on variables and research please [visit](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
